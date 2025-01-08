@@ -1,6 +1,6 @@
 .navbar{
     height: 50px;
-    background-color: rgb(0, 0, 0);
+    background:linear-gradient(to right,#1f0340  , #0c1c81);
     width: 100%;
     display: flex;
     justify-content: center;
@@ -41,7 +41,7 @@ button{
 }
 .big{
     height: 100vh;
-    background:linear-gradient(to right,#33006F  , #0c1c81);
+    background:linear-gradient(to right,#1f0340  , #0c1c81);
 
     display: flex;
     justify-content: center;
@@ -89,7 +89,7 @@ video{
 }
 .bottom{
     height: 100vh;
-    background:linear-gradient(to right,#33006F  , #0c1c81);
+    background:linear-gradient(to right,#1f0340  , #0c1c81);
     display: flex;
     justify-content: center;
     align-items: center;
